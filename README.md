@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacioDevelop
 - 👀 I’m interested in bikes and sport
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning AI management
 - 📫 How to reach me? go there --> stielermaciej@gmail.com
 - ⚡ Fun fact: I am a nerd repellant
 
